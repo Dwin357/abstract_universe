@@ -1,0 +1,47 @@
+Chapter 1
+
+Koan - 
+  As you attend to this --in a place, at a time-- am I, the narrator, real?
+
+Illustration - 
+  A child is with her parent, and the child asks 'why <a thing>?'
+  The parent answers, 'well <that thing> is because <X>'.
+  child: 'ok, but why <X>?'
+  parent: 'well, because <Y>.'
+  child: 'ok, but why <Y>?'
+  parent: 'well, because <Z>.'
+  child: 'ok, but why <Z>?'
+  parent: 'because I said so.'  -> (the secret is a confident delivery)
+
+
+In the above illustration we observe the parent passing on knowledge to the child, but there is a clear difference between the parents first three answers and the last one.  In the first three cases the parent was providing links or association between elements, in the last case the parent stated an absolute.  
+Now for convience I'd like to label these so that we can easily refer back to them.  For argument's sake we will say that everything the parent told the child is 'true' --because a parent would never lie to their child (we may revisit this premise later).  This means our task is labeling / diffentiating what we observe to be two different kinds of 'truth'.  
+In the first cases, the parent provides a causal relationship; <Z> caused <Y> which caused <X>, like a chain of dominos.  So we can label this a 'causal-truth'.
+In the last case, the parent simply shared the information as a truth.  So we can label this a 'revealed-truth'.
+
+But now for the fun part.  Let's put ourselves into the shoes of the child in the story --essentially turning this illustration into a thought-experiment.
+When we take on her perspective something new becomes possible.  In addition to what our parent says we can also look to our own senses, experiences, and mind as sources of truth.  
+By examining our experiences, we can identify patterns and come up with our own theories of how the Universe is strung together.  Unfortunately, if we are disciplined about what conclusions we draw from our experiences, we can't definitively say <A> causes <B>, only that <B> always follows <A>.  And since this isn't causal-truth', I'll call it an 'assoociative-truth' for the moment.
+However, there is a remarkable similarity between 'causal-truth' and 'associative-truth'.  
+
+Now this is interesting because there seems to be a convergance between the 'causal-truth' provided by the parent and the 'associative-truth' from our own observations.  
+
+
+
+
+
+
+
+
+
+
+
+
+There is a trueism in development that 'configuration is always the hardest part of development'.  This is because development is a highly itterative process, 
+
+with the developer generally repeating the same process over and over again while making small changes.
+
+setting up your development environment only happens at major mile-stones.
+
+
+There is a fundamental difference between the 
